@@ -1,0 +1,6 @@
+*.pkrvars.hcl
+*.pub
+*.tfvars
+*.tfstate
+*key*
+.terraform*
